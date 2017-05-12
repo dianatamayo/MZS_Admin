@@ -1,0 +1,44 @@
+2017-05-08 03:47:37 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'ana@gmail.com' for key 'usu_mail' En el archivo C:\xampp\htdocs\crudDiana\model\usuario.model.php En la linea --> 23
+
+2017-05-08 09:37:52 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-08 09:39:28 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-08 09:40:04 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-08 09:40:38 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-08 09:42:45 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-08 09:49:20 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-08 09:53:33 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-08 10:16:59 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-08 10:30:51 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-08 10:41:03 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 12:25:26 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 12:25:36 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 03:02:49 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 03:05:22 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 03:07:33 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 03:08:01 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 03:08:49 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 03:12:08 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 03:16:43 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 03:18:58 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`mzscann`.`mzscann_acceso`, CONSTRAINT `mzscann_acceso_ibfk_1` FOREIGN KEY (`usu_codigo`) REFERENCES `mzscann_usuarios` (`usu_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 229
+
+2017-05-09 03:40:35 -- Error del Sistema: # 23000 SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`mzscann`.`mzscann_usuarios`, CONSTRAINT `mzscann_usuarios_ibfk_1` FOREIGN KEY (`rol_codigo`) REFERENCES `mzscann_roles` (`rol_codigo`) ON UPDATE CASCADE) En el archivo C:\xampp\htdocs\MZS_Admin1\model\usuario.model.php En la linea --> 23
+
